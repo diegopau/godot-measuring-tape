@@ -65,8 +65,8 @@ const conversion_factors = [
 	0.3048, # Foot and inch (special case, just repeat the value for foot).
 	0.9144, # Yard.
 	1609.344, # Mile.
-	299792458.0, # Light second.
-	0.299792458, # Light nanosecond.
+	299792458.0, # Light3D second.
+	0.299792458, # Light3D nanosecond.
 	10000, # Hectares (in terms of square meters).
 	4046.8564224, # Acres (in terms of square meters).
 	0.001, # Liters (in terms of cubic meters).
